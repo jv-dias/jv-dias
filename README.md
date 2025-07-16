@@ -1,14 +1,5 @@
 # Olá, eu sou o João Victor! 👋
 
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/jv-dias/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jvictor.dev@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-</p>
-
 ## 👨‍💻 Sobre mim
 
 Desenvolvedor Full-Stack apaixonado por criar soluções de software robustas e inteligentes que resolvem problemas do mundo real. Com experiência em desenvolvimento de aplicações web modernas, tenho um forte interesse em arquitetura de software, práticas de DevOps e na aplicação de Inteligência Artificial para criar produtos inovadores.
