@@ -13,7 +13,7 @@ Desenvolvedor Full-Stack apaixonado por criar soluções de software robustas e 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jv-dias&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jv-dias&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv-dias&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
