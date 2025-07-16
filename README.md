@@ -1,10 +1,10 @@
 # Olá, eu sou o João Victor! 👋
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/" target="_blank">
+  <a href="https://www.linkedin.com/in/jv-dias/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jv-dias@outlook.com" target="_blank">
+  <a href="mailto:jvictor.dev@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
