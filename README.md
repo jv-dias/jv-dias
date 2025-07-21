@@ -4,9 +4,9 @@
 
 Desenvolvedor Full-Stack apaixonado por criar soluções de software robustas e inteligentes que resolvem problemas do mundo real. Com experiência em desenvolvimento de aplicações web modernas, tenho um forte interesse em arquitetura de software, práticas de DevOps e na aplicação de Inteligência Artificial para criar produtos inovadores.
 
-🎯 **Foco atual:** Desenvolvimento de plataformas de Business Intelligence com IA integrada
-🌟 **Paixão:** Apaixonado em criar projetos e solucionar problemas
-🚀 **Objetivo:** Contribuir para projetos que capazes de construir valor
+🎯 **Foco atual:** Desenvolvimento de plataformas de Business Intelligence com IA integrada  
+🌟 **Paixão:** Apaixonado em criar projetos e solucionar problemas  
+🚀 **Objetivo:** Contribuir para projetos que capazes de construir valor  
 
 ---
 
