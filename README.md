@@ -6,7 +6,7 @@ Desenvolvedor Full-Stack apaixonado por criar soluções de software robustas e 
 
 🎯 **Foco atual:** Desenvolvimento de plataformas de Business Intelligence com IA integrada  
 🌟 **Paixão:** Apaixonado em criar projetos e solucionar problemas  
-🚀 **Objetivo:** Contribuir para projetos que capazes de construir valor  
+🚀 **Objetivo:** Contribuir para projetos capazes de entregar valor  
 
 ---
 
